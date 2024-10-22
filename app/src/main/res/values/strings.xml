@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TPandroid3</string>
+    <string name="first_button">First Button</string>
+    <string name="second_button">Second Button</string>
+    <string name="nom">Nom:</string>
+    <string name="nom1">nom</string>
+    <string name="prenom">Prénom:</string>
+    <string name="prenom1">prénom</string>
+    <string name="valider">Valider</string>
+    <string name="information">Information</string>
+    <string name="bonjour">Bonjour</string>
+</resources>
